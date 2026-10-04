@@ -1,0 +1,6 @@
+{
+  "name": "مهدی جهان | یوتیوبر و استریمر",
+  "description": "وب‌سایت شخصی و رسمی فن‌پیج مهدی جهان با انیمیشن‌های روان و جذاب ورود از چپ و راست",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
